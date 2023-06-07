@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+  background: hsl(205.38deg 74.29% 86.27%);
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+h1 {
+   
+    width: 56%;
+ margin-right: auto;
+  margin-left:auto;
+ 
+  color: #FFFFFF;
+
+text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
+}
+
+
+form {
+  display: inline;
+}
+
+form div {
+  text-align: center;
+  
+}
+
+main {
+  width: 430px;
+  height: 400px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: hsl(203.84deg 90.12% 84.12%);
+  padding: 20px;
+ border-radius: 30px;
+ border: 1px solid hsl(203.86deg 59.71% 72.75%);
+}
+
+form label {
+  display: inline-block;
+  width: 6em;
+}
+
+form button {
+  margin-top: 2em;
+  font-size: 1.1em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+form input {
+  width: 15em;
+  padding: 0.3em;
+  height: 30px;
+  width: 240px;
+ border-radius: 10px;
+ border: 2px solid hsl(200, 29%, 61%);
+}
+
+
+button{
+    background-color: hsl(198.26deg 43.81% 41.18%);
+     border: 1px solid hsl(200deg 27.27% 28.04%);
+    color:  hsl(203.84deg 90.12% 84.12%);
+    height: 46px;
+    width: 240px;
+   border-radius: 10px;
+    box-shadow: -10px 0px 13px -7px #ffffff, 10px 0px 13px -7px #ffffff, -1px 0px 35px 25px rgba(255, 255, 255, 0.31);
+}
+
+#div1{
+    padding-bottom: 40px;
+    
+}
+
+ #div2{
+    padding-bottom:5px ;
+ }
+ h3{
+    width: 56%;
+    margin-right: auto;
+     margin-left:auto;
+     font-style: italic;
+     width: 60%;
+     padding-bottom: 15px;
+ }
